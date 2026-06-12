@@ -36,11 +36,13 @@ export default function Page() {
       </header>
 
       <section className="hero">
-        <h1>Le Mondial, raconté <em>par la data</em></h1>
+        <h1>Nos pronostics de la <em>CDM de foot 2026</em></h1>
         <p>
           Chaque jour, un modèle 100% transparent pronostique les matchs — et chaque
-          prono est horodaté et figé avant le coup d&apos;envoi. Pas de réécriture de
-          l&apos;histoire : le compteur dit la vérité.
+          prono est horodaté et figé avant le coup d&apos;envoi.
+        </p>
+        <p style={{marginTop: '12px'}}>
+          <a href="/methode" style={{color: 'var(--orange)', fontWeight: '600', textDecoration: 'none'}}>Comprendre le modèle →</a>
         </p>
       </section>
 
@@ -100,9 +102,12 @@ export default function Page() {
       <aside className="book-note">
         Comment transformer des données brutes en histoire qu&apos;on a envie de suivre ?
         C&apos;est exactement le sujet de mon livre sur la data analytics et le storytelling par
-        les dashboards, <a href="https://www.editions-eni.fr" rel="noopener">disponible aux Éditions ENI</a>.
+        les dashboards, <a href="https://www.editions-eni.fr" target="_blank" rel="noopener">disponible aux Éditions ENI</a>.
         Ce site en est la démo grandeur nature.
       </aside>
+      <footer style={{marginTop: '80px', paddingTop: '40px', borderTop: '1px solid var(--navy-3)', textAlign: 'center', color: 'var(--ink-dim)', fontSize: '0.9rem'}}>
+        <p>Une démo par <a href="https://ninjads.fr" target="_blank" rel="noopener noreferrer" style={{color: 'var(--orange-soft)', fontWeight: '600', textDecoration: 'none'}}>Ninjads</a> - data analyse, dashboard design, data marketing</p>
+      </footer> 
     </div>
   );
 }
