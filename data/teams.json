@@ -1,0 +1,245 @@
+{
+ "Argentina": {
+  "fr": "Argentine",
+  "flag": "ar",
+  "elo": 2120
+ },
+ "Spain": {
+  "fr": "Espagne",
+  "flag": "es",
+  "elo": 2140
+ },
+ "France": {
+  "fr": "France",
+  "flag": "fr",
+  "elo": 2090
+ },
+ "England": {
+  "fr": "Angleterre",
+  "flag": "gb-eng",
+  "elo": 2060
+ },
+ "Brazil": {
+  "fr": "Brésil",
+  "flag": "br",
+  "elo": 2020
+ },
+ "Portugal": {
+  "fr": "Portugal",
+  "flag": "pt",
+  "elo": 2010
+ },
+ "Netherlands": {
+  "fr": "Pays-Bas",
+  "flag": "nl",
+  "elo": 1990
+ },
+ "Belgium": {
+  "fr": "Belgique",
+  "flag": "be",
+  "elo": 1940
+ },
+ "Germany": {
+  "fr": "Allemagne",
+  "flag": "de",
+  "elo": 1930
+ },
+ "Colombia": {
+  "fr": "Colombie",
+  "flag": "co",
+  "elo": 1930
+ },
+ "Uruguay": {
+  "fr": "Uruguay",
+  "flag": "uy",
+  "elo": 1910
+ },
+ "Croatia": {
+  "fr": "Croatie",
+  "flag": "hr",
+  "elo": 1890
+ },
+ "Morocco": {
+  "fr": "Maroc",
+  "flag": "ma",
+  "elo": 1880
+ },
+ "Japan": {
+  "fr": "Japon",
+  "flag": "jp",
+  "elo": 1870
+ },
+ "Ecuador": {
+  "fr": "Équateur",
+  "flag": "ec",
+  "elo": 1860
+ },
+ "Mexico": {
+  "fr": "Mexique",
+  "flag": "mx",
+  "elo": 1840,
+  "host": true
+ },
+ "Switzerland": {
+  "fr": "Suisse",
+  "flag": "ch",
+  "elo": 1840
+ },
+ "Austria": {
+  "fr": "Autriche",
+  "flag": "at",
+  "elo": 1830
+ },
+ "USA": {
+  "fr": "États-Unis",
+  "flag": "us",
+  "elo": 1820,
+  "host": true
+ },
+ "Norway": {
+  "fr": "Norvège",
+  "flag": "no",
+  "elo": 1820
+ },
+ "Turkey": {
+  "fr": "Turquie",
+  "flag": "tr",
+  "elo": 1810
+ },
+ "Senegal": {
+  "fr": "Sénégal",
+  "flag": "sn",
+  "elo": 1800
+ },
+ "Iran": {
+  "fr": "Iran",
+  "flag": "ir",
+  "elo": 1790
+ },
+ "South Korea": {
+  "fr": "Corée du Sud",
+  "flag": "kr",
+  "elo": 1780
+ },
+ "Paraguay": {
+  "fr": "Paraguay",
+  "flag": "py",
+  "elo": 1770
+ },
+ "Canada": {
+  "fr": "Canada",
+  "flag": "ca",
+  "elo": 1760,
+  "host": true
+ },
+ "Australia": {
+  "fr": "Australie",
+  "flag": "au",
+  "elo": 1750
+ },
+ "Algeria": {
+  "fr": "Algérie",
+  "flag": "dz",
+  "elo": 1750
+ },
+ "Scotland": {
+  "fr": "Écosse",
+  "flag": "gb-sct",
+  "elo": 1740
+ },
+ "Egypt": {
+  "fr": "Égypte",
+  "flag": "eg",
+  "elo": 1740
+ },
+ "Czech Republic": {
+  "fr": "Tchéquie",
+  "flag": "cz",
+  "elo": 1730
+ },
+ "Ivory Coast": {
+  "fr": "Côte d'Ivoire",
+  "flag": "ci",
+  "elo": 1730
+ },
+ "Sweden": {
+  "fr": "Suède",
+  "flag": "se",
+  "elo": 1720
+ },
+ "Tunisia": {
+  "fr": "Tunisie",
+  "flag": "tn",
+  "elo": 1710
+ },
+ "Bosnia & Herzegovina": {
+  "fr": "Bosnie-Herz.",
+  "flag": "ba",
+  "elo": 1700
+ },
+ "Ghana": {
+  "fr": "Ghana",
+  "flag": "gh",
+  "elo": 1690
+ },
+ "Panama": {
+  "fr": "Panama",
+  "flag": "pa",
+  "elo": 1680
+ },
+ "Saudi Arabia": {
+  "fr": "Arabie saoudite",
+  "flag": "sa",
+  "elo": 1660
+ },
+ "South Africa": {
+  "fr": "Afrique du Sud",
+  "flag": "za",
+  "elo": 1650
+ },
+ "Qatar": {
+  "fr": "Qatar",
+  "flag": "qa",
+  "elo": 1640
+ },
+ "DR Congo": {
+  "fr": "RD Congo",
+  "flag": "cd",
+  "elo": 1640
+ },
+ "Uzbekistan": {
+  "fr": "Ouzbékistan",
+  "flag": "uz",
+  "elo": 1630
+ },
+ "Iraq": {
+  "fr": "Irak",
+  "flag": "iq",
+  "elo": 1620
+ },
+ "Jordan": {
+  "fr": "Jordanie",
+  "flag": "jo",
+  "elo": 1610
+ },
+ "New Zealand": {
+  "fr": "Nouvelle-Zélande",
+  "flag": "nz",
+  "elo": 1590
+ },
+ "Cape Verde": {
+  "fr": "Cap-Vert",
+  "flag": "cv",
+  "elo": 1560
+ },
+ "Curaçao": {
+  "fr": "Curaçao",
+  "flag": "cw",
+  "elo": 1530
+ },
+ "Haiti": {
+  "fr": "Haïti",
+  "flag": "ht",
+  "elo": 1520
+ }
+}

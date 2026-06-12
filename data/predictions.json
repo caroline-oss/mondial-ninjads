@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-06-11_Mexico_South-Africa",
+    "date": "2026-06-11",
+    "time": "21:00",
+    "round": "Matchday 1",
+    "group": "Group A",
+    "ground": "Mexico City",
+    "team1": "Mexico",
+    "team2": "South Africa",
+    "eloAtPrediction": {
+      "Mexico": 1890,
+      "South Africa": 1650
+    },
+    "probs": {
+      "p1": 0.639,
+      "pX": 0.2,
+      "p2": 0.161
+    },
+    "pick": "1",
+    "score": [
+      2,
+      1
+    ],
+    "confidence": 64,
+    "createdAt": "2026-06-11T19:34:09.855Z"
+  },
+  {
+    "id": "2026-06-11_South-Korea_Czech-Republic",
+    "date": "2026-06-11",
+    "time": "04:00",
+    "round": "Matchday 1",
+    "group": "Group A",
+    "ground": "Guadalajara (Zapopan)",
+    "team1": "South Korea",
+    "team2": "Czech Republic",
+    "eloAtPrediction": {
+      "South Korea": 1780,
+      "Czech Republic": 1730
+    },
+    "probs": {
+      "p1": 0.418,
+      "pX": 0.269,
+      "p2": 0.313
+    },
+    "pick": "1",
+    "score": [
+      2,
+      1
+    ],
+    "confidence": 42,
+    "createdAt": "2026-06-11T19:34:09.858Z"
+  }
+]
