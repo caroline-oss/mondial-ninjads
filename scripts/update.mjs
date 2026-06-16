@@ -112,7 +112,7 @@ async function main() {
       ground: m.ground, team1: t1, team2: t2,
       eloAtPrediction: { [t1]: elo[t1] + bonus1, [t2]: elo[t2] + bonus2 },
       probs: { p1: +p1.toFixed(3), pX: +pX.toFixed(3), p2: +p2.toFixed(3) },
-      pick: choice, score: likelyScore(p1, pX, p2), confidence,
+      pick: choice, score: likelyScore(elo[t1] + bonus1, elo[t2] + bonus2, 0), confidence,
       createdAt: new Date().toISOString(), // ← horodatage = la preuve
     });
     console.log(`  prono ${t1} vs ${t2} → ${choice} (${confidence}%)`);
