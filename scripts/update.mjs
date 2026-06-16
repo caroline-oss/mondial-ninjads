@@ -135,7 +135,7 @@ async function main() {
     counter,
     today: predictions.filter((p) => p.date === today),
     yesterday: predictions.filter((p) => p.date === yesterday),
-    history: [...predictions].sort((a, b) => b.date.localeCompare(a.date) || a.time.localeCompare(b.time)),
+    history: [...predictions].sort((a, b) => b.date.localeCompare(a.date) || (a.time || "").localeCompare(b.time || "")),
   });
 
   // CSV → Google Sheets (IMPORTDATA) → Looker Studio
