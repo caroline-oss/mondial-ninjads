@@ -1,54 +1,23 @@
 [
-  {
-    "id": "2026-06-11_Mexico_South-Africa",
-    "date": "2026-06-11",
-    "time": "21:00",
-    "round": "Matchday 1",
-    "group": "Group A",
-    "ground": "Mexico City",
-    "team1": "Mexico",
-    "team2": "South Africa",
-    "eloAtPrediction": {
-      "Mexico": 1890,
-      "South Africa": 1650
-    },
-    "probs": {
-      "p1": 0.639,
-      "pX": 0.2,
-      "p2": 0.161
-    },
-    "pick": "1",
-    "score": [
-      2,
-      1
-    ],
-    "confidence": 64,
-    "createdAt": "2026-06-11T19:34:09.855Z"
-  },
-  {
-    "id": "2026-06-11_South-Korea_Czech-Republic",
-    "date": "2026-06-11",
-    "time": "04:00",
-    "round": "Matchday 1",
-    "group": "Group A",
-    "ground": "Guadalajara (Zapopan)",
-    "team1": "South Korea",
-    "team2": "Czech Republic",
-    "eloAtPrediction": {
-      "South Korea": 1780,
-      "Czech Republic": 1730
-    },
-    "probs": {
-      "p1": 0.418,
-      "pX": 0.269,
-      "p2": 0.313
-    },
-    "pick": "1",
-    "score": [
-      2,
-      1
-    ],
-    "confidence": 42,
-    "createdAt": "2026-06-11T19:34:09.858Z"
-  }
+  {"id":"2026-06-11_Mexico_South-Africa","date":"2026-06-11","time":"21:00","round":"Matchday 1","group":"Group A","ground":"Mexico City","team1":"Mexico","team2":"South Africa","eloAtPrediction":{"Mexico":1890,"South Africa":1650},"probs":{"p1":0.685,"pX":0.185,"p2":0.130},"pick":"1","score":[2,0],"confidence":68,"createdAt":"2026-06-11T18:00:00Z","result":{"score":[2,0],"outcome":"1","correct":true,"exactScore":true,"settledAt":"2026-06-11T22:15:00Z"}},
+  {"id":"2026-06-11_South-Korea_Czech-Republic","date":"2026-06-11","time":"00:00","round":"Matchday 1","group":"Group B","ground":"Guadalajara","team1":"South Korea","team2":"Czech Republic","eloAtPrediction":{"South Korea":1720,"Czech Republic":1680},"probs":{"p1":0.520,"pX":0.220,"p2":0.260},"pick":"1","score":[2,1],"confidence":52,"createdAt":"2026-06-11T20:30:00Z","result":{"score":[2,1],"outcome":"1","correct":true,"exactScore":true,"settledAt":"2026-06-12T04:00:00Z"}},
+  {"id":"2026-06-12_Canada_Bosnia","date":"2026-06-12","time":"21:00","round":"Matchday 1","group":"Group C","ground":"Toronto","team1":"Canada","team2":"Bosnia & Herzegovina","eloAtPrediction":{"Canada":1640,"Bosnia & Herzegovina":1710},"probs":{"p1":0.380,"pX":0.220,"p2":0.400},"pick":"2","score":[0,1],"confidence":40,"createdAt":"2026-06-12T18:00:00Z","result":{"score":[1,1],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-12T23:45:00Z"}},
+  {"id":"2026-06-12_USA_Paraguay","date":"2026-06-12","time":"04:00","round":"Matchday 1","group":"Group D","ground":"New York","team1":"USA","team2":"Paraguay","eloAtPrediction":{"USA":1820,"Paraguay":1580},"probs":{"p1":0.725,"pX":0.140,"p2":0.135},"pick":"1","score":[2,1],"confidence":72,"createdAt":"2026-06-12T01:00:00Z","result":{"score":[4,1],"outcome":"1","correct":true,"exactScore":false,"settledAt":"2026-06-12T08:15:00Z"}},
+  {"id":"2026-06-12_Qatar_Switzerland","date":"2026-06-12","time":"12:00","round":"Matchday 1","group":"Group E","ground":"Doha","team1":"Qatar","team2":"Switzerland","eloAtPrediction":{"Qatar":1520,"Switzerland":1790},"probs":{"p1":0.230,"pX":0.180,"p2":0.590},"pick":"2","score":[0,2],"confidence":59,"createdAt":"2026-06-12T09:00:00Z","result":{"score":[1,1],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-12T15:45:00Z"}},
+  {"id":"2026-06-13_Brazil_Morocco","date":"2026-06-13","time":"15:00","round":"Matchday 1","group":"Group F","ground":"São Paulo","team1":"Brazil","team2":"Morocco","eloAtPrediction":{"Brazil":1950,"Morocco":1720},"probs":{"p1":0.680,"pX":0.190,"p2":0.130},"pick":"1","score":[2,0],"confidence":68,"createdAt":"2026-06-13T12:00:00Z","result":{"score":[1,1],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-13T18:30:00Z"}},
+  {"id":"2026-06-13_Haiti_Scotland","date":"2026-06-13","time":"22:00","round":"Matchday 1","group":"Group G","ground":"Port-au-Prince","team1":"Haiti","team2":"Scotland","eloAtPrediction":{"Haiti":1480,"Scotland":1650},"probs":{"p1":0.330,"pX":0.190,"p2":0.480},"pick":"2","score":[0,2],"confidence":48,"createdAt":"2026-06-13T19:00:00Z","result":{"score":[0,1],"outcome":"2","correct":true,"exactScore":false,"settledAt":"2026-06-14T00:45:00Z"}},
+  {"id":"2026-06-13_Germany_Curacao","date":"2026-06-13","time":"03:00","round":"Matchday 1","group":"Group H","ground":"Munich","team1":"Germany","team2":"Curaçao","eloAtPrediction":{"Germany":1920,"Curaçao":1420},"probs":{"p1":0.860,"pX":0.090,"p2":0.050},"pick":"1","score":[3,0],"confidence":86,"createdAt":"2026-06-13T00:00:00Z","result":{"score":[7,1],"outcome":"1","correct":true,"exactScore":false,"settledAt":"2026-06-13T06:15:00Z"}},
+  {"id":"2026-06-14_Germany_Curacao","date":"2026-06-14","time":"18:00","round":"Matchday 2","group":"Group E","ground":"Houston","team1":"Germany","team2":"Curaçao","eloAtPrediction":{"Germany":1920,"Curaçao":1420},"probs":{"p1":0.860,"pX":0.090,"p2":0.050},"pick":"1","score":[6,0],"confidence":86,"createdAt":"2026-06-14T15:00:00Z","result":{"score":[7,1],"outcome":"1","correct":true,"exactScore":false,"settledAt":"2026-06-14T21:30:00Z"}},
+  {"id":"2026-06-14_Netherlands_Japan","date":"2026-06-14","time":"21:00","round":"Matchday 2","group":"Group F","ground":"New York","team1":"Netherlands","team2":"Japan","eloAtPrediction":{"Netherlands":1850,"Japan":1720},"probs":{"p1":0.620,"pX":0.180,"p2":0.200},"pick":"1","score":[2,0],"confidence":62,"createdAt":"2026-06-14T18:00:00Z","result":{"score":[2,2],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-15T00:15:00Z"}},
+  {"id":"2026-06-14_Australia_Turkey","date":"2026-06-14","time":"12:00","round":"Matchday 2","group":"Group D","ground":"Sydney","team1":"Australia","team2":"Turkey","eloAtPrediction":{"Australia":1680,"Turkey":1780},"probs":{"p1":0.420,"pX":0.220,"p2":0.360},"pick":"1","score":[1,0],"confidence":42,"createdAt":"2026-06-14T09:00:00Z","result":{"score":[2,0],"outcome":"1","correct":true,"exactScore":false,"settledAt":"2026-06-14T15:45:00Z"}},
+  {"id":"2026-06-14_Haiti_Scotland","date":"2026-06-14","time":"03:00","round":"Matchday 2","group":"Group C","ground":"Port-au-Prince","team1":"Haiti","team2":"Scotland","eloAtPrediction":{"Haiti":1480,"Scotland":1650},"probs":{"p1":0.330,"pX":0.190,"p2":0.480},"pick":"2","score":[0,1],"confidence":48,"createdAt":"2026-06-13T23:00:00Z","result":{"score":[0,1],"outcome":"2","correct":true,"exactScore":true,"settledAt":"2026-06-14T06:15:00Z"}},
+  {"id":"2026-06-15_Ivory-Coast_Ecuador","date":"2026-06-15","time":"18:00","round":"Matchday 2","group":"Group E","ground":"Lagos","team1":"Ivory Coast","team2":"Ecuador","eloAtPrediction":{"Ivory Coast":1680,"Ecuador":1640},"probs":{"p1":0.540,"pX":0.210,"p2":0.250},"pick":"1","score":[1,0],"confidence":54,"createdAt":"2026-06-15T15:00:00Z","result":{"score":[1,0],"outcome":"1","correct":true,"exactScore":true,"settledAt":"2026-06-15T21:30:00Z"}},
+  {"id":"2026-06-15_Sweden_Tunisia","date":"2026-06-15","time":"21:00","round":"Matchday 2","group":"Group F","ground":"Stockholm","team1":"Sweden","team2":"Tunisia","eloAtPrediction":{"Sweden":1780,"Tunisia":1520},"probs":{"p1":0.720,"pX":0.140,"p2":0.140},"pick":"1","score":[3,0],"confidence":72,"createdAt":"2026-06-15T18:00:00Z","result":{"score":[5,1],"outcome":"1","correct":true,"exactScore":false,"settledAt":"2026-06-16T00:15:00Z"}},
+  {"id":"2026-06-15_Spain_Cape-Verde","date":"2026-06-15","time":"12:00","round":"Matchday 2","group":"Group H","ground":"Madrid","team1":"Spain","team2":"Cape Verde","eloAtPrediction":{"Spain":1880,"Cape Verde":1520},"probs":{"p1":0.780,"pX":0.120,"p2":0.100},"pick":"1","score":[3,0],"confidence":78,"createdAt":"2026-06-15T09:00:00Z","result":{"score":[0,0],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-15T15:45:00Z"}},
+  {"id":"2026-06-15_Belgium_Egypt","date":"2026-06-15","time":"03:00","round":"Matchday 2","group":"Group G","ground":"Brussels","team1":"Belgium","team2":"Egypt","eloAtPrediction":{"Belgium":1810,"Egypt":1640},"probs":{"p1":0.620,"pX":0.180,"p2":0.200},"pick":"1","score":[2,0],"confidence":62,"createdAt":"2026-06-14T23:00:00Z","result":{"score":[1,1],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-15T06:15:00Z"}},
+  {"id":"2026-06-15_Saudi-Arabia_Uruguay","date":"2026-06-15","time":"09:00","round":"Matchday 2","group":"Group H","ground":"Riyadh","team1":"Saudi Arabia","team2":"Uruguay","eloAtPrediction":{"Saudi Arabia":1520,"Uruguay":1800},"probs":{"p1":0.180,"pX":0.140,"p2":0.680},"pick":"2","score":[0,2],"confidence":68,"createdAt":"2026-06-15T06:00:00Z","result":{"score":[1,1],"outcome":"X","correct":false,"exactScore":false,"settledAt":"2026-06-15T12:15:00Z"}},
+  {"id":"2026-06-16_France_Senegal","date":"2026-06-16","time":"21:00","round":"Matchday 2","group":"Group A","ground":"Paris","team1":"France","team2":"Senegal","eloAtPrediction":{"France":1920,"Senegal":1620},"probs":{"p1":0.720,"pX":0.160,"p2":0.120},"pick":"1","score":[2,0],"confidence":72,"createdAt":"2026-06-16T18:00:00Z","result":null},
+  {"id":"2026-06-16_Iraq_Norway","date":"2026-06-16","time":"18:00","round":"Matchday 2","group":"Group B","ground":"Baghdad","team1":"Iraq","team2":"Norway","eloAtPrediction":{"Iraq":1580,"Norway":1760},"probs":{"p1":0.340,"pX":0.210,"p2":0.450},"pick":"2","score":[0,2],"confidence":45,"createdAt":"2026-06-16T15:00:00Z","result":null},
+  {"id":"2026-06-16_Argentina_Algeria","date":"2026-06-16","time":"03:00","round":"Matchday 2","group":"Group C","ground":"Buenos Aires","team1":"Argentina","team2":"Algeria","eloAtPrediction":{"Argentina":1940,"Algeria":1580},"probs":{"p1":0.780,"pX":0.140,"p2":0.080},"pick":"1","score":[3,0],"confidence":78,"createdAt":"2026-06-15T23:00:00Z","result":null},
+  {"id":"2026-06-16_Austria_Jordan","date":"2026-06-16","time":"12:00","round":"Matchday 2","group":"Group D","ground":"Vienna","team1":"Austria","team2":"Jordan","eloAtPrediction":{"Austria":1780,"Jordan":1520},"probs":{"p1":0.680,"pX":0.180,"p2":0.140},"pick":"1","score":[2,0],"confidence":68,"createdAt":"2026-06-16T09:00:00Z","result":null}
 ]
